@@ -1,0 +1,11 @@
+.tagbadge {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border-radius: 9999px; /* Ensures the badge is always circular */
+  background-color: #e2e8f0; /* Light gray background color */
+  color: #4a5568; /* Dark gray text color */
+  font-size: 0.75rem; /* Adjust font size as needed */
+  font-weight: 600; /* Adjust font weight as needed */
+  text-transform: uppercase; /* Converts text to uppercase */
+}
+

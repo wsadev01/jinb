@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Colors */
+.bg-primary {
+  background-color: #0f97a2;
+}
+.bg-primary-light {
+  background-color: #a9e7f5;
+}
+.bg-primary-dark {
+  background-color: #3f869e;
+}
+.bg-secondary {
+  background-color: #fdd98a;
+}
+.text-primary {
+  color: #00d8d8;
+}
+.divider {
+  border-color: rgba(255, 255, 255, 0.33);
+}
+
+/* Background */
+.bg-default {
+  background-color: #141414;
+}
+.bg-paper {
+  background-color: #1c2029;
+}
+
+/* Spacing (if needed) */
+/* .px-1 { padding: 0.25rem; } */
+/* .px-2 { padding: 0.5rem; } */
+/* Define additional spacing classes as needed */
+
